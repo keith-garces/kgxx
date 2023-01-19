@@ -14,3 +14,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keith-garces)](https://github.com/keith-garces/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=keith-garces&show_icons=true&theme=radical)
