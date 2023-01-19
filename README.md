@@ -1,6 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello!+I+am+Keith.)](https://git.io/typing-svg)
 
-![](https://komarev.com/ghpvc/?username=your-github-username)
 
 - 👋 Hi, I’m @kgxx!
 - 👀 I'm current wokin on my Portfolio.
@@ -17,6 +16,10 @@ kgxx/kgxx is a  special ✨ repository because its `README.md` (this file) appea
 You can click the Preview link to take a look at your changes.
 --->
 
+![](https://komarev.com/ghpvc/?username=keith-garces)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keith-garces)](https://github.com/keith-garces/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=keith-garces&show_icons=true&theme=radical)
+
