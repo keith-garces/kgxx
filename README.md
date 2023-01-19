@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Keith Garces</h1>
 <h3 align="center">A passionate frontend developer from the Philippines</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=keith-garces&label=Profile%20views&color=0e75b6&style=flat" alt="keith-garces" /> </p>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello!+I+am+Keith." alt="Typing SVG" /></a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=keith-garces&label=Profile%20views&color=0e75b6&style=plastic" alt="keith-garces" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=keith-garces" alt="keith-garces" /></a> </p>
 
 - 🌱 I’m currently learning **HTML, CSS and Javascript**
 
-- 📝 I regularly write articles on [notion.com](notion.com)
+- 📝 I regularly write articles on [Notion](Notion)
 
 - 📫 How to reach me **keithgarces.freelancing@gmail.com**
 
@@ -15,6 +17,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://codepen.io/kgxx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="kgxx" height="30" width="40" /></a>
+<a href="https://twitter.com/keithgarces_me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="keithgarces_me" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/imkeithgarces" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imkeithgarces" height="30" width="40" /></a>
 </p>
 
@@ -23,4 +27,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=keith-garces&show_icons=true&locale=en&layout=compact" alt="keith-garces" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=keith-garces&show_icons=true&locale=en" alt="keith-garces" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=keith-garces&show_icons=true&theme=dark&locale=en" alt="keith-garces" /></p>
+
